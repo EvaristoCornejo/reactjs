@@ -1,0 +1,4 @@
+.cajita{border:solid; width: 200px;height: 100px; position: relative; left: 40px; }
+.mas{position: relative; top: 30px; left: 5px;}
+.menos{ position: relative; bottom: 40px; left: 150px;}
+.contador{position: relative; left: 90px;}
